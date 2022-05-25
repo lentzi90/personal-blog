@@ -12,4 +12,4 @@ Den nya bloggen fungerar precis som den gamla.
 Jag har bara bytt system och tema.
 I bakgrunden är det fortfarande mitt kluster av Raspberry Pi's och en gammal laptop som får den att fungera.
 
-Om ni saknar den gamla bloggen så finns den kvar [här](https://jern.me/old).
+Om ni saknar den gamla bloggen så finns den kvar [här](https://jern.me/).

@@ -1,6 +1,6 @@
-baseURL = "https://jern.me/"
+baseURL = "https://lennart.jern.me/"
 languageCode = "sv-FI"
-title = "Blog"
+title = "Lennart Jern"
 theme = "no-js"
 
 [params]
